@@ -1,0 +1,42 @@
+/* .container {
+  padding: 1%;
+  display: center;
+}  */
+.bg-image {
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position:center;
+  background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#col{
+  position: absolute;
+}
+
+.col-sm{
+  color : black
+}
+
+#HomePageBtn{
+
+  margin: 0;
+  position: absolute;
+  right: 30%;
+
+}
+
+#game-over-page {
+  background-color: #9ab4cb;
+  text-align: center;
+}
+
+.form-control{
+  width: 40%;
+  display: initial;
+}
+
+canvas { background: #eee; }
